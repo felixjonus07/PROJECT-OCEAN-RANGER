@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 - **Programming Language:** C (for implementation on Arduino board)
-- **Embedded Systems:** Arduino, Raspberry Pi
+- **Embedded Systems:** Arduino
 - **Mathematical Models:** Doppler Effect, Dead Reckoning
 - **Data Processing:** Real-time position tracking
 
