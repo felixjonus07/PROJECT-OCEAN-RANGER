@@ -18,10 +18,10 @@
 - **Data Processing:** Real-time position tracking
 
 ## 👥 Team Members
-- **Guru Vishnu S**(https://www.linkedin.com/in/guruvishnu2006/)
-- **Felix Jonus I**(https://www.linkedin.com/in/felix-jonus-a20021309/)
-- **Gokul V**(https://www.linkedin.com/in/gokul-v-164989328/)
-- **Sudhan M**(https://www.linkedin.com/in/sudhan1324/)
+- [**Guru Vishnu S**](https://www.linkedin.com/in/guruvishnu2006/)
+- [**Felix Jonus I**](https://www.linkedin.com/in/felix-jonus-a20021309/)
+- [**Gokul V**](https://www.linkedin.com/in/gokul-v-164989328/)
+- [**Sudhan M**](https://www.linkedin.com/in/sudhan1324/)
 
 ## 🎯 Usage
 - Implement Dead Reckoning and Doppler Effect calculations for navigation.
